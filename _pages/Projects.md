@@ -51,7 +51,7 @@ author_profile: true
       Your browser does not support the video tag.
     </video>
     <video style="width: 100%; max-height: 200px; margin-bottom: 20px;" controls>
-      <source src="/YD.Huang/files/dog_follow.mp4" type="video/mp4">
+      <source src="/YD.Huang/files/dog_follow_h264.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
