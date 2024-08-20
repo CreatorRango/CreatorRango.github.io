@@ -6,7 +6,7 @@
 
 main:
   - title: "Projects"
-    url: /files/Projects.md
+    url: /projects/
          
   - title: "CV"
     url: /files/HYD_CV.pdf
