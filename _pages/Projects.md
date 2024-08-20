@@ -1,7 +1,8 @@
 ---
+layout: archive
 title: "Projects"
-excerpt: "Short description of projects item number 1<br/>"
-collection: projects
+permalink: /Projects/
+author_profile: true
 ---
 
 <div style="display: flex; width: 100%;">
