@@ -1,3 +1,9 @@
+---
+title: "Projects"
+excerpt: "Short description of projects item number 1<br/>"
+collection: projects
+---
+
 <div style="display: flex; width: 100%;">
   <!-- 左侧文字内容和标题 -->
   <div style="flex: 3; padding-right: 20px;">
