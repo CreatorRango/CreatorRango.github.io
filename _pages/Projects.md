@@ -19,13 +19,13 @@ author_profile: true
   <div style="flex: 2; display: flex; align-items: center;">
     <div style="flex: 1; margin-right: 10px;">
       <video style="width: 100%; max-height: 100%;" controls>
-        <source src="/files/hand1.mp4" type="video/mp4">
+        <source src="/YD.Huang/files/hand1.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
     <div style="flex: 1;">
       <video style="width: 100%; max-height: 100%;" controls>
-        <source src="/files/hand2.mp4" type="video/mp4">
+        <source src="/YD.Huang/files/hand2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
@@ -47,18 +47,18 @@ author_profile: true
   </div>
 <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
     <video style="width: 100%; max-height: 200px; margin-bottom: 20px;" controls>
-      <source src="/files/dog_move.mp4" type="video/mp4">
+      <source src="/YD.Huang/files/dog_move.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <video style="width: 100%; max-height: 200px; margin-bottom: 20px;" controls>
-      <source src="/files/dog_follow.mp4" type="video/mp4">
+      <source src="/YD.Huang/files/dog_follow.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
 </div>
 <div style="display: flex; justify-content: flex-start; width: 100%; margin-top: 20px;">
-  <img src="/files/dog.jpg" style="width: 30%; height: auto; margin-right: 10px;">
-  <img src="/files/dog2.jpg" style="width: 30%; height: auto;">
+  <img src="/YD.Huang/files/dog.jpg" style="width: 30%; height: auto; margin-right: 10px;">
+  <img src="/YD.Huang/files/dog2.jpg" style="width: 30%; height: auto;">
 </div>
 
 ## Robomaster Robotics Competition
@@ -70,7 +70,7 @@ author_profile: true
     </div>
     <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
       <video style="width: 100%; height: auto;" controls>
-        <source src="/files/Auto_aim.mp4" type="video/mp4">
+        <source src="/YD.Huang/files/Auto_aim.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
@@ -81,7 +81,7 @@ author_profile: true
       <p>Led the development of a control system using FreeRTOS, along with CAN and serial communications, which improved the motion control of an omnidirectional chassis robot and its turret.</p>
     </div>
     <div style="flex: 1;">
-      <img src="/files/Balance.jpg" style="width: 100%; height: auto;">
+      <img src="/YD.Huang/files/Balance.jpg" style="width: 100%; height: auto;">
     </div>
   </div>
   <div style="display: flex; margin-bottom: 20px;">
@@ -90,7 +90,7 @@ author_profile: true
       <p>Implemented mapping, localization, and navigation strategies using Fast-lio under Mid360 LiDAR, which enhanced the robot’s operational capabilities. Managed autonomous attacks and developed defensive strategies, enhancing the robot's tactical responses.</p>
     </div>
     <div style="flex: 1;">
-      <img src="/files/sentry.jpg" style="width: 100%; height: auto;">
+      <img src="/YD.Huang/files/sentry.jpg" style="width: 100%; height: auto;">
     </div>
   </div>
 
@@ -101,20 +101,20 @@ author_profile: true
     <p>Directed the development and control of a large quadcopter using the DJI A3 flight controller, focusing on stable hovering and adaptive control during dynamic conditions such as bullet firing, ensuring consistent performance.</p>
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
-    <img src="/files/UAV.jpg" style="width: 100%; height: auto;">
+    <img src="/YD.Huang/files/UAV.jpg" style="width: 100%; height: auto;">
   </div>
 </div>
 <div style="display: flex; width: 100%; height: 300px;"> <!-- 增加容器高度 -->
   <video style="flex-grow: 1; min-width: 30%; max-width: 100%; height: 100%;" controls> <!-- 调整视频高度和宽度范围 -->
-    <source src="/files/UAV_game.mp4" type="video/mp4">
+    <source src="/YD.Huang/files/UAV_game.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <video style="flex-grow: 1; min-width: 30%; max-width: 100%; height: 100%;" controls>
-    <source src="/files/UAV_test.mp4" type="video/mp4">
+    <source src="/YD.Huang/files/UAV_test.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <video style="flex-grow: 1; min-width: 30%; max-width: 100%; height: 100%;" controls>
-    <source src="/files/balance_game.mp4" type="video/mp4">
+    <source src="/YD.Huang/files/balance_game.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -131,7 +131,7 @@ author_profile: true
   <!-- 右侧图片和视频 -->
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
     <video style="width: 100%; max-width: 300px; height: auto;" controls>
-      <source src="/files/motion_control.mp4" type="video/mp4">
+      <source src="/YD.Huang/files/motion_control.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -149,7 +149,7 @@ author_profile: true
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
     <video style="width: 100%; height: auto;" controls>
-      <source src="/files/Tower crane.mp4" type="video/mp4">
+      <source src="/YD.Huang/files/Tower crane.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -166,7 +166,7 @@ author_profile: true
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
     <video style="width: 100%; max-width: 300px; height: auto;" controls>
-      <source src="/files/sound_source.mp4" type="video/mp4">
+      <source src="/YD.Huang/files/sound_source.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
