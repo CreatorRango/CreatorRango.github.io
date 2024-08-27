@@ -11,9 +11,9 @@ title                    : "Wei Yang"
 title_separator          : "-"
 name                     : &name "Wei Yang"
 description              : &description "Roboticist"
-url                      : https://hyd-ra-ai.github.io/YD.Huang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://CreatorRango.github.io/CreatorRango # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Hyd-ra-ai/YD.Huang.github.io"
+repository               : "CreatorRango/CreatorRango.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yadong HUANG"
+  name             : "Wei Yang"
   avatar           : "ME.jpg"
   bio              : "Roboticist"
   location         : " China"
